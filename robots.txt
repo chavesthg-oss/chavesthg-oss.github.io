@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Preview local: indexação bloqueada até autorização de publicação.
+Sitemap: https://cliniarq.com/sitemap.xml
